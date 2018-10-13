@@ -1,3 +1,3 @@
-# QA-electoral.graphics
+# QA electoral.graphics
 AQ
 Read me
